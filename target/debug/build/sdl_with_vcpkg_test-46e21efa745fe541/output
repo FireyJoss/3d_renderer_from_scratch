@@ -1,0 +1,3 @@
+cargo:rustc-link-lib=dylib=SDL2
+cargo:rustc-link-search=native=C:\vcpkg\vcpkg\installed\x64-windows\lib
+cargo:include=C:\vcpkg\vcpkg\installed\x64-windows\include
